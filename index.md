@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>OneDiv</title>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div></div>
+    <script type="text/javascript" src="app.bundle.js"></script>
+  </body>
+</html>
